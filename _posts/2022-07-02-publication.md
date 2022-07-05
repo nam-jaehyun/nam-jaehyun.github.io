@@ -1,7 +1,7 @@
 ---
 title: Publication
 author: Jaehyun Nam
-date: 2022-07-01
+date: 2022-07-02
 category: default
 layout: post
 ---

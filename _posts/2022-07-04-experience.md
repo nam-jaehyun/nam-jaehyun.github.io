@@ -1,7 +1,7 @@
 ---
 title: Experience
 author: Jaehyun Nam
-date: 2022-07-03
+date: 2022-07-04
 category: default
 layout: post
 ---
@@ -32,16 +32,4 @@ layout: post
 
 - Research Observer, SRI International (Supervisor: Phillip Porras, Dec 2015 ~ Feb 2016)
   - Design and Implementation of a composable SDN operating system for multiple purposes
-
-## Honors and Awards
-
-- Silver Award, Samsung Human-tech Paper Award, Republic of Korea, Feb 2020.
-
-- NAVER Ph.D. Fellowship Award, Republic of Korea, Nov 2018.
-
-- Best SDN Solution Showcase Award, Open Networking Foundation (ONF), Oct 2016.
-  - Project Delta (SDN Security Evaluation Framework) at SDN World Congress, Netherlands
-
-- Prize from Ministry of The Interior, Republic of Korea, Dec 2015.
-  - Best paper award at Conference on Information Security and Cryptology (CISC)
 
