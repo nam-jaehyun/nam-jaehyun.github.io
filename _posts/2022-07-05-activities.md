@@ -16,7 +16,7 @@ layout: post
 	- Project Delta (SDN Security Evaluation Framework)
 
 - Prize from Ministry of The Interior, Republic of Korea (Dec 2015)
-	- Best paper at the Conference on Information Security and Cryptology
+	- Best paper award at the Conference on Information Security and Cryptology
 
 ## Teaching
 
