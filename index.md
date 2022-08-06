@@ -5,8 +5,8 @@ layout: home
 Principal Scientist  
 AccuKnox  
 
-Office: (Hidden Field)
-E-mail: jn@boanlab.com  
+Office: (Hidden Field)  
+Email: jn@boanlab.com  
 Phone: +82-70-7954-1712  
 
 ## Short Biography
