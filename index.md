@@ -14,7 +14,7 @@ Phone: +82-70-7954-1712
 
 ## Short Biography
 
-Jaehyun received his Ph.D. in School of Computing (advisor, Professor Seungwon Shin) from KAIST. He previously received his B.S. in Computer Science and Engineering from Sogang University and his M.S. in Graduate School of Information Security (advisor, Professor KyoungSoo Park) from KAIST. He is currently working as a principal scientist at AccuKnox and designing various security solutions for today’s cloud and edge computing systems. He is also maintaining a CNCF sandbox project, called [KubeArmor](https://github.com/kubearmor/KubeArmor), which is a cloud-native runtime security enforcement system.
+Jaehyun Nam is an assistant professor in Department of Computer Engineering, College of SW Convergence, Dankook University. He is also maintaining a CNCF sandbox project, called [KubeArmor](https://github.com/kubearmor/KubeArmor), which is a cloud-native runtime security enforcement system. He received his Ph.D. in School of Computing (advisor, Professor Seungwon Shin) from KAIST. He previously received his B.S. in Computer Science and Engineering from Sogang University and his M.S. in Graduate School of Information Security (advisor, Professor KyoungSoo Park) from KAIST. Before joining Dankook University, he was a principal scientist at AccuKnox and designing various security solutions for today’s cloud and edge computing systems.
 
 ## Research Interests
 
