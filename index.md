@@ -4,6 +4,8 @@ layout: home
 
 # Jaehyun Nam
 
+![Jaehyun_Nam](https://github.com/nam-jaehyun/nam-jaehyun.github.io/blob/master/gitbook/images/jaehyun_nam.jpg?raw=true)
+
 Assistant Professor  
 Dept. of Computer Engineering  
 Dankook University, Republic of Korea  
