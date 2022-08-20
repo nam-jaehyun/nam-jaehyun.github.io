@@ -2,11 +2,14 @@
 layout: home
 ---
 
-Principal Scientist  
-AccuKnox  
+# Jaehyun Nam
 
-Office: (Hidden Field)  
-Email: jn@boanlab.com  
+Assistant Professor  
+Dept. of Computer Engineering  
+Dankook University, Republic of Korea  
+
+Office: 152, Jukjeon-ro, Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea (16890)  
+E-mail: jn@boanlab.com  
 Phone: +82-70-7954-1712  
 
 ## Short Biography
