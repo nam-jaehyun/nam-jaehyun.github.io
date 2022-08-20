@@ -1,10 +1,11 @@
 # Jaehyun Nam
 
-Principal Scientist  
-AccuKnox, CA, USA  
+Assistant Professor  
+Dept. of Computer Engineering  
+Dankook University, Republic of Korea  
 
-Office: 238, Samsong-ro, Deogyang-gu, Goyang-si, Republic of Korea (10592)  
-E-mail: jn@accuknox.com  
+Office: 152, Jukjeon-ro, Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea (16890)  
+E-mail: jn@boanlab.com  
 Phone: +82-70-7954-1712  
 
 ## Short Biography
