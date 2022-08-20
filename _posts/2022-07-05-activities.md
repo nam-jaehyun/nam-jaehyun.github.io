@@ -20,7 +20,11 @@ layout: post
 
 ## Teaching
 
-- TBF
+- Fall 2022
+
+	- Software Engineering
+	- Distributed Computing and Systems
+	- Advanced Programming Exercise
 
 ## Professional Services
 
