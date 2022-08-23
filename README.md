@@ -6,10 +6,11 @@ Assistant Professor
 Dept. of Computer Engineering  
 Dankook University, Republic of Korea  
 
-Office: Engineering Building Room 517  
-Phone: +82-31-8005-3663  
+Office: Room 517, Engineering Building 2  
+Address: 152 Jukjeon-ro, Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea (16890)  
+Tel: +82-31-8005-3663  
+Direct: +82-70-7954-1712  
 E-mail: jn@boanlab.com  
-Address: 152, Jukjeon-ro, Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea (16890)  
 
 ## Short Biography
 
