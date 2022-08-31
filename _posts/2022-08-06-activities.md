@@ -8,15 +8,20 @@ layout: post
 
 ## Honors and Awards
 
-#### Samsung Humantech Paper Award, Silver Prize, Republic of Korea (Feb 2020)
+#### Samsung Humantech Paper Award (Feb 2020)
+  - Silver Prize
+  - Samsung Electronics
 
-#### NAVER Ph.D. Fellowship Award, Republic of Korea (Nov 2018)
+#### NAVER Ph.D. Fellowship Award (Nov 2018)
+  - NAVER
 
-#### Best SDN Solution Showcase Award, SDN World Congress, Hague, Netherlands (Oct 2016)
-  - Project Delta (SDN Security Evaluation Framework)
+#### Best SDN Solution Showcase Award (Oct 2016)
+  - Project Delta (SDN Security Evaluation Framework) at SDN World Congress, Hague, Netherlands
+  - Open Networking Foundation (ONF)
 
-#### Prize from Ministry of The Interior, Republic of Korea (Dec 2015)
+#### Prize from Ministry of The Interior Prize (Dec 2015)
   - Best paper award at the Conference on Information Security and Cryptology
+  - Ministry of The Interior, Republic of Korea
 
 ## Teaching
 
