@@ -8,8 +8,7 @@ Dankook University, Republic of Korea
 
 Office: Room 517, Engineering Building 2  
 Address: 152 Jukjeon-ro, Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea (16890)  
-Tel: +82-31-8005-3663  
-Direct: +82-70-7954-1712  
+Phone: +82-31-8005-3663  
 E-mail: jn@boanlab.com  
 
 ## Short Biography
