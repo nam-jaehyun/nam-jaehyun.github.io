@@ -1,7 +1,7 @@
 ---
 title: Education
 author: Jaehyun Nam
-date: 2022-09-01
+date: 2022-08-01
 category: default
 layout: post
 ---
