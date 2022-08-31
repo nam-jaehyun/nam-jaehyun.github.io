@@ -1,7 +1,7 @@
 ---
 title: Activities
 author: Jaehyun Nam
-date: 2022-07-05
+date: 2022-09-06
 category: default
 layout: post
 ---
