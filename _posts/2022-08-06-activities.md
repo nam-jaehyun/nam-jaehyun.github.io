@@ -8,6 +8,10 @@ layout: post
 
 ## Honors and Awards
 
+#### Cyber Security Paper Award (Sept 2022)
+  - Excellence Prize
+  - Korea Institute of Information Security and Cryptology (KIISC)
+
 #### Samsung Humantech Paper Award (Feb 2020)
   - Silver Prize
   - Samsung Electronics
@@ -19,9 +23,9 @@ layout: post
   - Project Delta (SDN Security Evaluation Framework) at SDN World Congress, Hague, Netherlands
   - Open Networking Foundation (ONF)
 
-#### Prize from Ministry of The Interior Prize (Dec 2015)
-  - Best paper award at the Conference on Information Security and Cryptology
-  - Ministry of The Interior, Republic of Korea
+#### Ministry Award of the Interior (Dec 2015)
+  - Best paper at Conference on Information Security and Cryptology Winter 2015
+  - Ministry of the Interior, Republic of Korea
 
 ## Teaching
 
