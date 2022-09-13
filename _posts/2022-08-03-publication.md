@@ -8,6 +8,8 @@ layout: post
 
 ## International Journals
 
+1. Jaehyun Nam, Seungsoo Lee, Phillip Porras, Vinod Yegneswaran, and Seungwon Shin, "Secure Inter-Container Communications using XDP/eBPF", IEEE/ACM Transactions on Networking (ToN), to appear.
+
 1. Jaehyun Nam, Seung Ho Na, Seungwon Shin, and Taejune Park, “Reconfigurable Regular Expression Matching Architecture for Real-time Pattern Update and Payload Inspection”, Journal of Network and Computer Applications(JNCA), to appear.
 
 1. Seungsoo Lee, Seungwon Woo, Jinwoo Kim, Jaehyun Nam, Vinod Yegneswaran, Phillip Porras, and Seungwon Shin, "A Framework for Policy Inconsistency Detection in Software-Defined Networks", IEEE/ACM Transactions on Networking (ToN), 2022.
