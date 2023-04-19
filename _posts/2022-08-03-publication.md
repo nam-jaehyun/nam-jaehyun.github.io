@@ -50,7 +50,7 @@ layout: post
 
 ## Korean Journals
 
-1. None
+1. Junhee Lee, Jaehyun Nam, Jinwoo Kim, "Analysis of the Impact of Host Resource Exhaustion Attacks in a Container Environment", Journal of the Korea Institute of Information Security \& Cryptology, 2023.
 
 ## Korean Conferences
 
@@ -59,8 +59,3 @@ layout: post
 1. Jaehyun Nam, Hyeonseong Jo, and Seungwon Shin, "Micro Segmentation Method for Enhancing the Security of Software-Defined Networks", Conference on Information Security and Cryptology (CISC), Korea Institute of Information Security and Cryptology (KIISC), 2016.
 
 1. Jaehyun Nam, Joonseok Yang, Yeonkeun Kim, and Seungwon Shin, "Defence Mechanism against Resource Consumption Attacks in Software-Defined Networking Environments", Conference on Information Security and Cryptology (CISC), Korea Institute of Information Security and Cryptology (KIISC), 2015.
-
-## Korean Workshops, Abstracts, and Posters
-
-1. None
-
