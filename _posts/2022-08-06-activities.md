@@ -29,9 +29,9 @@ layout: post
 
 ## Teaching
 
-#### Fall 2022
-
   - Software Engineering
+  - Computer Architecture
+  - Cloud Computing
   - Distributed Computing and Systems
   - Advanced Programming Exercise
 
